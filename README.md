@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @sageFdo
 - 👀 I’m interested in Cyber Security
-- 🌱 I’m currently working towards to become a Bugbounty hunter
+- 🌱 I’m currently working on to become a Bugbounty Hunter
+- I am sharing my journy with you. So feel free to reach me.
 
 
 <!---
