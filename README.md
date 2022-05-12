@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @sageFdo
 - 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently working towards to become a Bugbounty hunter
+
 
 <!---
 sageFdo/sageFdo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
